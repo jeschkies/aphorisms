@@ -1,5 +1,7 @@
 # Engineering Aphorisms
 
+## Introduction
+
 This is a list of aphorisms inspired by Amazon's [Leadership Principles](https://www.amazon.jobs/en/principles),
 [The Zen of Python](https://www.python.org/dev/peps/pep-0020/), Marathon's [Code Culture](https://github.com/mesosphere/marathon/blob/master/docs/docs/code-culture.md),
 Basecamp's [Rework](https://basecamp.com/books/rework) and others I failed to find again.
@@ -14,5 +16,5 @@ items. Feel free to suggest improvements by filing a [pull request](https://gith
 5. Let it Crash
 6. Slow and Steady over Fast and Uncontrollable
 7. Iterate and Learn
-8. Clebrate Success Not Failure
-9. You Are Not as Smart as You Think
+8. Celebrate Success Not Failure
+9. I Am Not Smart

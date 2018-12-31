@@ -10,3 +10,6 @@
 - [Iterate and Learn](./07_iterate.md)
 - [Celebrate Success not Failure](./08_celebrate.md)
 - [I Am Not Smart](./09_not_smart.md)
+
+-----------
+[Background](./background.md)
