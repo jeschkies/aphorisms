@@ -1,0 +1,5 @@
+[book]
+authors = ["Karsten Jeschkies"]
+multilingual = false
+src = "src"
+title = "Engineering Aphorisms"
