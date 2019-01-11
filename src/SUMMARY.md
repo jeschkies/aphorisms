@@ -12,4 +12,4 @@
 - [I Am Not Smart](./09_not_smart.md)
 
 -----------
-[Background](./background.md)
+[License](./license.md)
