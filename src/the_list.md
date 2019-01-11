@@ -11,7 +11,7 @@ items. Feel free to suggest improvements by filing a [pull request](https://gith
 
 1. [Leadership Means Vorbild](./01_vorbild.md)
 2. [Assume Best Intentions, Always](./02_best_intentions.md)
-3. Respect What Came Before
+3. [Respect What Came Before](./03_respect.md)
 4. Fail Loud and Proud
 5. Let it Crash
 6. Slow and Steady over Fast and Uncontrollable
